@@ -16,3 +16,5 @@ The fifth step of the script updates the six activity values from their original
 The sixth step updates some of the variable names to more descriptive and less abbreviated versions.
 
 The final step of the script extracts a new tidy dataset from the dataset that was formed in the first six steps, using the aggregate function to extract the mean values by activity and subject person.   That data set is then exported as a text file, and is found in this repo (data_tidy.txt)
+
+A code book for the data set has also been included, named Data_Tidy Codebook.txt
